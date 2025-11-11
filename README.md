@@ -1,4 +1,4 @@
-## 📊 Estatísticas do GitHub
+## 📈 Atividade e Linguagens
 
 <table align="center">
   <tr>
